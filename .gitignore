@@ -1,0 +1,5 @@
+cdc-covid
+twilio.env
+lastdata.*.json
+*.log
+*.json
